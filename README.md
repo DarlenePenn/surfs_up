@@ -5,7 +5,7 @@
 
 ## Results
 Results show there are 3 key differences in the weather between June and December: 
-!["June Statistics:](/Resources/Jun Temps Stats.png)
+!["June Statistics:](/Resources/Jun_Temps_Stats.png)
 
   - The average temperature in June was 74.9 degrees, while in December the average temperature drops to 71.0 degrees
   - The max temperature is not much higher in June (85 degrees) than it is in December (83 degrees). 
